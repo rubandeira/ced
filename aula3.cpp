@@ -34,7 +34,7 @@ double soma_integral(double a, double b, int N,
     return s;
 }
 int main() {
-    std::cout << "Hello World!"
+    std::cout << "faroa"
               << std::endl;
 
     double a = 0.0;
